@@ -45,11 +45,3 @@ This repository is open-source and available under the [MIT License](LICENSE). F
 
 ---
 
-## 🌟 Let's Connect!
-
-I'm always excited to connect with fellow learners and AI enthusiasts. If you have questions, suggestions, or just want to chat about AI, reach out to me:
-
-- **GitHub**: [Your GitHub Profile](https://github.com/m-sadkowski)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/m-sadkowski)
-- **Email**: your.email@example.com
-
